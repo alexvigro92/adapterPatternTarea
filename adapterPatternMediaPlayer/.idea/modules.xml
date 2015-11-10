@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapterPattern.iml" filepath="$PROJECT_DIR$/adapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterPatternMediaPlayer.iml" filepath="$PROJECT_DIR$/adapterPatternMediaPlayer.iml" />
+    </modules>
+  </component>
+</project>
